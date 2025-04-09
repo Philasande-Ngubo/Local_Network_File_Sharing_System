@@ -1,14 +1,21 @@
 Firstly make sure you have pillow 
 by running:
-    pip instal pillow
 
-To start tracker, run 
-	make traker (Linux or if you hav make on your machine) 
-	python Tracker_UI.py (Windows)
+	pip instal pillow
 
-To start seeder/leecher(client), run
-	make client (Linux or if you hav make on your machine)
-	python3 Options.py     (Windows)
+To start tracker, run (Linux or if you hav make on your machine)
+
+	make traker  
+  (Windows)
+  
+	python Tracker_UI.py
+
+To start seeder/leecher(client), run (Linux or if you hav make on your machine)
+
+	make client 
+ (Windows)
+ 
+	python3 Options.py     
 
 Using:
 	After starting enter the tracker Token as display on the Trackers' screen
