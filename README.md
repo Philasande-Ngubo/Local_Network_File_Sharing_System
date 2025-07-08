@@ -1,7 +1,14 @@
-Firstly make sure you have pillow 
-by running:
+# ![clarify_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/96f76175-ccfd-49f9-9a47-4d3537b88a9d) Description
 
-	pip instal pillow
+This projects demonstrate sharing files in a local network using sockets
+
+# ![conditions_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/4f41fdea-8afb-487d-b7c4-cd3b821c206d) Requirements
+- pillow
+  
+	  pip instal pillow
+
+# ![terminal_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/08d97d47-593f-4274-887c-b84884300f4a) Running
+
 
 To start tracker, run (Linux or if you hav make on your machine)
 
